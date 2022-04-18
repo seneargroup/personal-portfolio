@@ -277,124 +277,6 @@ h6:hover{
   transition: 1s ease;
   }
 
-#grid{
-    display: grid;
-    background-color: #221325;
-    grid-template-columns: auto auto auto auto;
-    text-align: center;
-    padding: 10px 10px;
-    max-width: 100%;
-    
-}
-.javascript{
-    height: 150px;
-    width: 200px;
-    margin: 10px 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    background-color: #1b101d;
-    color: white;
-    padding: 55px 10px;
-    border-radius: 15px;
-    -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
-}
-.html{
-    height: 150px;
-    width: 200px;
-    margin: 10px 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    background-color: #1b101d;;
-    color: white;
-    padding: 55px 10px;
-    border-radius: 15px;
-    -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
-}
-.css{
-    height: 150px;
-    width: 200px;
-    margin: 10px 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    background-color: #1b101d;;
-    color: white;
-    padding: 55px 10px;
-    border-radius: 15px;
-    -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
-}
-.node{
-    height: 150px;
-    width: 200px;
-    margin: 10px 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    background-color: #1b101d;;
-    color: white;
-    padding: 55px 10px;
-    border-radius: 15px;
-    -webkit-border-radius: 15px;
-    -moz-border-radius: 15px;
-    -ms-border-radius: 15px;
-    -o-border-radius: 15px;
-}
-.javascript:hover{
-    background-color:  #856088;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
-    transition: 1s ease;
-}
-.html:hover{
-    background-color:  #856088;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
-    transition: 1s ease;
-}
-.css:hover{
-    background-color:  #856088;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
-    transition: 1s ease;
-}
-.node:hover{
-    background-color:  #856088;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 700;
-    font-size: 20px;
-    transform: scale(0.8);
-    -ms-transform: scale(0.8);
-    transform: scale(0.8);
-    transition: 1s ease;
-}
-
-
-
-
-
 #contact{
     background-color: black;
     height: 470px;
@@ -606,6 +488,7 @@ p:hover{
     }
       
   }
+
 
   
   @media (max-width:375px) {
